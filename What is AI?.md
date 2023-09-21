@@ -25,3 +25,6 @@ AI is a powerful technology with the potential to improve our lives in many ways
 *I hope this post has helped you to understand AI a little better.*
 
 > In our next post we will explore more about it.😉
+
+### Hindi Guide
+[Click Here](https://github.com/BarrenWardo/AI.Overtakes/blob/Hindi/What%20is%20AI%3F.md)
